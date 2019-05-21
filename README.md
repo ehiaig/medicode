@@ -99,4 +99,4 @@ For Heroku enthusiast. Delete if you'd not be deploying to Heroku.
 
 ## Bugs, Corrections, Feedback, Contributing
 No system is 100% I'd be happy if you can jump in and collaborate. If you find bugs or errors or see places where you can improve on,
-fork the repo, and raise a PR or shoot me an email. jcobhams[at]gmail[dot]com
+fork the repo, and raise a PR or shoot me an email. jcobhams[at]gmail[dot]com# medicode
